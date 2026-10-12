@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Criminal Network Analysis System",
+  "description": "From Fragmented Evidence to Connected Investigation Intelligence. Intelligence command platform for criminal network link analysis, money trail tracking, and multi-hop correlation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
